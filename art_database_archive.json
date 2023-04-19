@@ -1,0 +1,1340 @@
+{
+    "artwork": {
+        "current_EN": [
+            {
+            "img": "img/art_2023/2023-04-11_circulo_4200x2959.JPG", 
+            "thumb": "img/art_2023/2023-04-11_circulo_1000x705.JPG", 
+            "extension": "JPG", 
+            "year": "2023", 
+            "date": "2023-04-11", 
+            "px": "4200x2959", 
+            "title": "circulo", 
+            "titulo": "círculo",
+            "size": "L'aquarelle Canson 23 x 31 cm, 300 g/m\u00b2"
+            },
+            {
+                "img": "img/art_2023/2023-02-19_yhwh2_2944x4024.JPG", 
+                "thumb": "img/art_2023/2023-02-19_yhwh2_1000x705.JPG", 
+                "extension": "JPG", 
+                "year": "2023", 
+                "date": "2023-02-19", 
+                "px": "2944x4024", 
+                "title": "YHWH 2",
+                "titulo": "Yavé 2",
+                "size": "L'aquarelle Canson 23 x 31 cm, 300 g/m\u00b2"
+                },
+        
+            {
+                "img": "img/art_2023/2023-02-04_mini_4600x3064.JPG", 
+                "thumb": "img/art_2023/2023-02-04_miniB_1000x705.JPG", 
+                "extension": "JPG", 
+                "year": "2023", 
+                "date": "2023-02-04", 
+                "px": "4600x3064", 
+                "title": "mini (postkarte)",
+                "titulo": "mini (postal)", 
+                "size": "148 x 100 mm, 140 lb/m\u00b2" 
+            }, 
+            {
+                "img": "img/art_2023/2023-01-25_patas_3864x2888.JPG", 
+                "thumb": "img/art_2023/2023-04-11_patas_1000x705.JPG", 
+                "extension": "JPG", 
+                "year": "2023", 
+                "date": "2023-01-25", 
+                "px": "3864x2888", 
+                "title": "feet",
+                "titulo": "patas", 
+                "size": "65 x 51 cm, 300 g/m\u00b2"
+            }, 
+             
+             
+            {
+                "img": "img/art_2022/2022-05-29_ateth_3883x2921.jpg", 
+                "thumb": "img/art_2022/2022-05-29_ateth_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2022", 
+                "date": "2022-05-29", 
+                "px": "3883x2921", 
+                "title": "Theta (\u03d1)",
+                "titulo": "Theta (\u03d1)", 
+                "size": "30x40cm, 300g/m\u00b2,."
+            }, 
+            {
+                "img": "img/art_2022/2022-05-16_caras_4417x3220.jpg", 
+                "thumb": "img/art_2022/2022-05-16_caras_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2022", 
+                "date": "2022-05-16", 
+                "px": "4417x3220", 
+                "title": "caras",
+                "titulo": "faces", 
+                "size": "Disponible"
+            }, 
+            
+            {
+                "img": "img/art_2022/2022-02-24_blau_4416x3140.jpg", 
+                "thumb": "img/art_2022/2022-02-24_blau_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2022", 
+                "date": "2022-02-24", 
+                "px": "4416x3140", 
+                "title": "Blue",
+                "titulo": "Azul", 
+                "size": "Disponible"
+            }, 
+             
+             
+            {
+                "img": "img/art/2021-05-22_Papaya_4400x3100.jpg", 
+                "thumb": "img/art/2021-05-22_Papaya_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2021", 
+                "date": "2021-05-22", 
+                "px": "4400x3100", 
+                "title": "Papaya",
+                "titulo": "Theta (\u03d1)", 
+                "size": "<em>VENDIDO</em>. Karlsruhe, DE."
+            }, 
+            {
+                "img": "img/art/2021-07-27_monte-v4.png", 
+                "thumb": "img/art/2021-08-20_monte-v4_1000x705.png", 
+                "extension": "png", 
+                "year": "2021", 
+                "date": "2021-07-27", 
+                "px": "monte-v4", 
+                "title": "Monte",
+                "titulo": "Monte", 
+                "size": "Arte del disco \"Monte\"."
+            }, 
+            {
+                "img": "img/art/2021-08-20_monte-v6-back.png", 
+                "thumb": "img/art/2021-08-20_monte-v6-back_1000x705.png", 
+                "extension": "png", 
+                "year": "2021", 
+                "date": "2021-08-20", 
+                "px": "monte-v6-back", 
+                "title": "Monte",
+                "titulo": "Monte", 
+                "size": "Arte del disco \"Monte\"."
+            }, 
+            {
+                "img": "img/art/2021-10-11_Plantas_2900x2700.jpg", 
+                "thumb": "img/art/2021-10-11_Plantas_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2021", 
+                "date": "2021-10-11", 
+                "px": "2900x2700", 
+                "title": "Plants",
+                "titulo": "Plantas", 
+                "size": "Disponible"
+            }, 
+            {
+                "img": "img/art/2021-10-25_Obscura_5100x3400.jpg", 
+                "thumb": "img/art/2021-10-25_Obscura_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2021", 
+                "date": "2021-10-25", 
+                "px": "5100x3400", 
+                "title": "Obscurae",
+                "titulo": "Obscura", 
+                "size": "Disponible"
+            }, 
+            {
+                "img": "img/art/2021-05-21_derretir_3100x4400.jpg", 
+                "thumb": "img/art/2021-05-21_derretir_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2021", 
+                "date": "2021-05-21", 
+                "px": "3100x4400", 
+                "title": "melt",
+                "titulo": "Derretir", 
+                "size": "<em>VENDIDO</em>. Karlsruhe, DE."
+            }, 
+             
+            {
+                "img": "img/art/2020-01-07_Flores_Viendo_5720x4026.jpg", 
+                "thumb": "img/art/2020-01-07_Flores_Viendo_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2020", 
+                "date": "2020-01-07", 
+                "px": "5720x4026", 
+                "title": "Flowers looking",
+                "titulo": "Flores viendo", 
+                "size": "<em>VENDIDO</em>. Karlsruhe, DE"
+            }, 
+            {
+                "img": "img/art/2020-10-21_yhwh_6941x9372.jpg", 
+                "thumb": "img/art/2020-10-21_yhwh_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2020", 
+                "date": "2020-10-21", 
+                "px": "6941x9372", 
+                "title": "YHWH",
+                "titulo": "Yavé", 
+                "size": "Disponible"
+            }, 
+ 
+            {
+                "img": "img/art/2018-10-30_Calacas_2784x2229.jpg", 
+                "thumb": "img/art/2018-10-30_Calacas_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2018", 
+                "date": "2018-10-30", 
+                "px": "2784x2229", 
+                "title": "skulls",
+                "titulo": "Calacas", 
+                "size": "Calaveras"
+            }, 
+            {
+                "img": "img/art/2019-06-19_musa_9729x6624.jpg", 
+                "thumb": "img/art/2019-06-19_musa_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2019", 
+                "date": "2019-06-19", 
+                "px": "9729x6624", 
+                "title": "froggie frogs",
+                "titulo": "ranas", 
+                "size": "Ranitas"
+            }, 
+            {
+                "img": "img/art/2022-02-24_Cafe_3487x3327.jpg", 
+                "thumb": "img/art_2022/2022-02-24_Cafe_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2022", 
+                "date": "2022-02-24", 
+                "px": "3487x3327", 
+                "title": "Caf\u00e9",
+                "titulo": "Café", 
+                "size": "Momeno"
+            }, 
+            {
+                "img": "img/art_2022/2022-02-24_mouth_2949x3059.jpg", 
+                "thumb": "img/art_2022/2022-02-24_mouth_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2022", 
+                "date": "2022-02-24", 
+                "px": "2949x3059", 
+                "title": "mouth",
+                "titulo": "hocico", 
+                "size": "Momeno"
+            }
+        ],
+        "abgegeben_EN": [
+            {
+                "img": "img/art_2022/2022-08-08_ogos_4191x3102.jpg", 
+                "thumb": "img/art_2022/2022-08-08_ogos_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2022", 
+                "date": "2022-08-08", 
+                "px": "4191x3102", 
+                "title": "eyes",
+                "titulo": "Ojos",              
+                "size": "9.1 x 12.2 in, 300g/m\u00b2,SOLD."
+            },
+            {
+                "img": "img/art_2022/2022-07-25_Retrospectiva_4200x2926.jpg", 
+                "thumb": "img/art_2022/2022-07-25_Retrospectiva_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2022", 
+                "date": "2022-07-25", 
+                "px": "4200x2926", 
+                "title": "Retrospective: 2008 - 2022", 
+                "titulo": "Retrospectiva: 2008 - 2022", 
+                "size": "9.1 x 12.2 inches, 300g/m\u00b2."
+            },
+            {
+                "img": "img/art_2022/2022-03-02_not_poli_4284x3262.jpg", 
+                "thumb": "img/art_2022/2022-03-02_not_poli_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2022", 
+                "date": "2022-03-02", 
+                "px": "4284x3262", 
+                "title": "This is not a political statement/panzona/caf\u00e9nmente", 
+                "titulo": "Esto no es un dscurso político/panzona/caf\u00e9nmente", 
+                "size": "Disponible"
+            }, 
+            {
+                "img": "img/art/2022-02-18_oceano_3784x2706.jpg", 
+                "thumb": "img/art/2022-02-18_oceano_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2022", 
+                "date": "2022-02-18", 
+                "px": "3784x2706", 
+                "title": "ocean", 
+                "titulo": "oc\u00e9ano", 
+                "size": "<em>VENDIDO</em>. Las Palmas, ES."
+            },
+            {
+                "img": "img/art/2021-05-10_Las_cruces_entre_4400x3100.jpg", 
+                "thumb": "img/art/2021-05-10_Las_cruces_entre_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2021", 
+                "date": "2021-05-10", 
+                "px": "4400x3100", 
+                "title": "crosses", 
+                "titulo": "Las cruces", 
+                "size": " <em>VENDIDO</em>. Karlsruhe, DE."
+            }, 
+            {
+                "img": "img/art/2021-08-23_Geometria_4200x2900.jpg", 
+                "thumb": "img/art/2021-08-23_Geometria_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2021", 
+                "date": "2021-08-23", 
+                "px": "4200x2900", 
+                "title": "Geometry", 
+                "titulo": "Geometr\u00eda", 
+                "size": "<em>VENDIDO</em>. Karlsruhe, DE."
+            }, 
+            {
+                "img": "img/art/2021-05-26_Shh_silencio_4400x3100.jpg", 
+                "thumb": "img/art/2021-05-26_Shh_silencio_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2021", 
+                "date": "2021-05-26", 
+                "px": "4400x3100", 
+                "title": "Silence", 
+                "titulo": "Silencio", 
+                "size": "<em>VENDIDO</em>. Karlsruhe, DE."
+            }, 
+            {
+                "img": "img/art/2021-07-26_Media_4400x3100.jpg", 
+                "thumb": "img/art/2021-07-26_Media_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2021", 
+                "date": "2021-07-26", 
+                "px": "4400x3100", 
+                "title": "Median", 
+                "titulo": "Media", 
+                "size": "<em>VENDIDO</em>. Bruselas, BE v\u00eda Colombia."
+            }, 
+            {
+                "img": "img/art/2022-01-08_Circulo_de_carne_4200x2900.jpg", 
+                "thumb": "img/art/2022-01-08_Circulo_de_carne_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2022", 
+                "date": "2022-01-08", 
+                "px": "4200x2900", 
+                "title": "meatcircle", 
+                "titulo": "Circulo de carne", 
+                "size": "Disponible"
+            },
+            {
+                "img": "img/art/2021-09-01_Maria_3100x4400.jpg", 
+                "thumb": "img/art/2021-09-01_Maria_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2021", 
+                "date": "2021-09-01", 
+                "px": "3100x4400", 
+                "title": "Mar\u00eda", 
+                "titulo": "Mar\u00eda", 
+                "size": "<em>VENDIDO</em>. K\u00f6ln, DE v\u00eda Cuatitl\u00e1n Izcalli."
+            }, 
+            {
+                "img": "img/art/2021-08-24_Reflexion_3700_3300.jpg", 
+                "thumb": "img/art/2021-08-24_Reflexion_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2021", 
+                "date": "2021-08-24", 
+                "px": "3300", 
+                "title": "Illuminated", 
+                "titulo": "Iluminada", 
+                "size": "<em>VENDIDO</em>. Karlsruhe, DE. v\u00eda Colombia"
+            },
+            {
+                "img": "img/art/2021-02-20_grande_4625x3212.jpg", 
+                "thumb": "img/art/2021-02-20_grande_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2021", 
+                "date": "2021-02-20", 
+                "px": "4625x3212", 
+                "title": "big", 
+                "titulo": "Grande", 
+                "size": "Disponible"
+            }
+        ],
+        "archive_EN": [
+            {
+                "img": "img/art_2018/2019-07-02_Sagitaria_5608x3944.jpg", 
+                "thumb": "img/art_2018/2019-07-02_Sagitaria_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2019", 
+                "date": "2019-07-02", 
+                "px": "5608x3944", 
+                "title": "Sagitaria", 
+                "size": "Sagitaria. 30x40cm, 300g/m\u00b2, <em>VENDIDO</em>. Karlsruhe, DE."
+            }, 
+            {
+                "img": "img/art_2018/2019-05-16_janika2_5600x3864.jpg", 
+                "thumb": "img/art_2018/2019-05-16_janika2_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2019", 
+                "date": "2019-05-16", 
+                "px": "5600x3864", 
+                "title": "Janika", 
+                "size": "Janika. 30x40cm, 300g/m\u00b2, <em>VENDIDO</em>. Frankfurt? DE."
+            }, 
+            {
+                "img": "img/art_2018/2018-12-09_katka_5656x3969.jpg", 
+                "thumb": "img/art_2018/2018-12-09_katka_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2018", 
+                "date": "2018-12-09", 
+                "px": "5656x3969", 
+                "title": "Katka", 
+                "size": "Katka. 30x40cm, 300g/m\u00b2, <em>VENDIDO</em>. Lodz? P."
+            }, 
+            {
+                "img": "img/art_2018/2017-11-07_Alguna_3936x5640.jpg", 
+                "thumb": "img/art_2018/2017-11-07_Alguna_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2017", 
+                "date": "2017-11-07", 
+                "px": "3936x5640", 
+                "title": "Alguna", 
+                "size": "Siber?. 30x40cm, 300g/m\u00b2, <em>VENDIDO</em>. Los Mochis."
+            }, 
+            {
+                "img": "img/art_2018/2017-11-07_Pajaro_3936_5664.jpg", 
+                "thumb": "img/art_2018/2017-11-07_Pajaro_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2017", 
+                "date": "2017-11-07", 
+                "px": "5664", 
+                "title": "P\u00e1jaro", 
+                "size": "P\u00e1jaro. 30x40cm, 300g/m\u00b2, <em>VENDIDO</em>. Los Mochis."
+            }, 
+            {
+                "img": "img/art_2018/2018-09-24_Theta_5656x3984.jpg", 
+                "thumb": "img/art_2018/2018-09-24_Theta_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2018", 
+                "date": "2018-09-24", 
+                "px": "5656x3984", 
+                "title": "Theta", 
+                "size": "Theta. 30x40cm, 300g/m\u00b2."
+            }, 
+            {
+                "img": "img/art_2018/2018-11-09_Pitahaya_67302x9306.jpg", 
+                "thumb": "img/art_2018/2018-11-09_Pitahaya_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2018", 
+                "date": "2018-11-09", 
+                "px": "67302x9306", 
+                "title": "Pitahaya", 
+                "size": "S\u00ed ya s\u00e9 la cagu\u00e9 a la verga d\u00e9jenmen en paz. 30x40cm, 150g/m\u00b2."
+            }
+        ],
+        "bw_EN": [ 
+            {
+                "img": "img/art_2018/2018-11-18_parceracosmica_3600x5176.jpg", 
+                "thumb": "img/art_2018/2018-11-18_parceracosmica_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2018", 
+                "date": "2018-11-18", 
+                "px": "3600x5176", 
+                "title": "Black and White", 
+                "size": "Ink and Black and White Paper."
+            }, 
+            {
+                "img": "img/art_2018/2018-12-19_Bloom_3438x2294.jpg", 
+                "thumb": "img/art_2018/2018-12-19_Bloom_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2018", 
+                "date": "2018-12-19", 
+                "px": "3438x2294", 
+                "title": "Strichpunkt", 
+                "size": "Reproducci\u00f3n de cartas. 30x40cm, 300g/m\u00b2."
+            }, 
+            {
+                "img": "img/art_2018/2018-12-20_Fantasmas_3459x2481.jpg", 
+                "thumb": "img/art_2018/2018-12-20_Fantasmas_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2018", 
+                "date": "2018-12-20", 
+                "px": "3459x2481", 
+                "title": "Parcera", 
+                "size": "C\u00f3smica. 30x40cm, 300g/m\u00b2."
+            }, 
+            {
+                "img": "img/art_2018/2018-12-21_Galaxia_3664x2636.jpg", 
+                "thumb": "img/art_2018/2018-12-21_Galaxia_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2018", 
+                "date": "2018-12-21", 
+                "px": "3664x2636", 
+                "title": "Bloom", 
+                "size": "Bubbles. Postkarte, 150g/m\u00b2."
+            }, 
+            {
+                "img": "img/art_2018/2019-04-14_David_Chau_3608x500.jpg", 
+                "thumb": "img/art_2018/2019-04-14_David_Chau_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2019", 
+                "date": "2019-04-14", 
+                "px": "3608x500", 
+                "title": "Fantasmas", 
+                "size": "Reproducci\u00f3n de cartas. Postkarte, 150g/m\u00b2."
+            }, 
+            {
+                "img": "img/art_old/2006_Collage_1416x1708.jpg", 
+                "thumb": "img/art_old/2006_Collage_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2006_Collage_1416x1708.jpg", 
+                "date": "2006", 
+                "px": "1416x1708", 
+                "title": "Galaxia", 
+                "size": "Reproducci\u00f3n de cartas. Postkarte, 150g/m\u00b2."
+            }, 
+            {
+                "img": "img/art_old/2007_Collage_2500x3000.jpg", 
+                "thumb": "img/art_old/2007_Collage_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2007_Collage_2500x3000.jpg", 
+                "date": "2007", 
+                "px": "2500x3000", 
+                "title": "Chau, David", 
+                "size": "Chau. Postkarte, 150g/m\u00b2."
+            }
+        ],
+        "monte_EN": [
+            {
+                "img": "img/art_monte/2018-09-17_Montanas_5192x3672.jpg", 
+                "thumb": "img/art_monte/2018-09-17_Montanas_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2018", 
+                "date": "2018-09-17", 
+                "px": "5192x3672", 
+                "title": "Monte sketch", 
+                "titulo": "Monte a tinta", 
+                "size": "Tinta en moleskine, 2018"
+            }, 
+            {
+                "img": "img/art_monte/2018-10-15_montana_5080x3592.jpg", 
+                "thumb": "img/art_monte/2018-10-15_montana_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2018", 
+                "date": "2018-10-15", 
+                "px": "5080x3592", 
+                "title": "Monte sketch", 
+                "titulo": "Monte a tinta", 
+                "size": "Tinta en postal, 2018"
+            }, 
+            {
+                "img": "img/art_monte/2018-10-15_montana_5080x3592.jpg", 
+                "thumb": "img/art_monte/2018-11-13_Monte_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2018", 
+                "date": "2018-10-15", 
+                "px": "5080x3592", 
+                "title": "Monte sketch",
+                "titulo": "Monte a tinta", 
+                "size": "Tinta en tarjeta, 2018"
+            }, 
+            {
+                "img": "img/art_monte/2018_03-30_montana_3_2966x1944.jpg", 
+                "thumb": "img/art_monte/2018_03-30_montana_3_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2018_03", 
+                "date": "2018", 
+                "px": "2966x1944", 
+                "title": "Monte color",
+                "titulo": "Monte a color", 
+                "size": "Acuarela, Medio mixto"
+            }, 
+            {
+                "img": "img/art_monte/2019_02-26_montana_3_9614x6435.jpg", 
+                "thumb": "img/art_monte/2019_02-26_montana_3_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2019_02", 
+                "date": "2019", 
+                "px": "9614x6435", 
+                "title": "Monte color",
+                "titulo": "Monte a color", 
+                "size": "Acuarela, Medio mixto"
+            },
+
+            {
+                "img": "img/art_monte/2019-01-13_montechico_3207x3213.jpg", 
+                "thumb": "img/art_monte/2019-01-13_montechico_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2019", 
+                "date": "2019-01-13", 
+                "px": "3207x3213", 
+                "title": "Monte square", 
+                "titulo": "Monte cuadrado", 
+                "size": "Acuarela, Medio mixto"
+            },  
+            {
+                "img": "img/art_monte/2020-04-04_Monte_2316x2852.jpg", 
+                "thumb": "img/art_monte/2020-04-04_Monte_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2020", 
+                "date": "2020-04-04", 
+                "px": "2316x2852", 
+                "title": "Monte right side", 
+                "titulo": "Monte a la derecha",
+                "size": "Acuarela, Medio mixto"
+            }, 
+            {
+                "img": "img/art_monte/2020-05-21_Monte_3740x2824.jpg", 
+                "thumb": "img/art_monte/2020-05-21_Monte_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2020", 
+                "date": "2020-05-21", 
+                "px": "3740x2824", 
+                "title": "Monte right side",
+                "titulo": "Monte a la derecha", 
+                "size": "Acuarela, Medio mixto"
+            }, 
+            {
+                "img": "img/art_monte/2020-05-21_Monte_3428x2826.jpg", 
+                "thumb": "img/art_monte/2020-05-20_Monte_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2020", 
+                "date": "2020-05-21", 
+                "px": "3428x2826", 
+                "title": "Monte quasi-finished",
+                "titulo": "Monte cuasi-terminado", 
+                "size": "Acuarela, Medio mixto"
+            }, 
+            {
+                "img": "img/art_monte/2020-04-14_Monte_4361x3179.jpg", 
+                "thumb": "img/art_monte/2020-04-14_Monte_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2020", 
+                "date": "2020-04-14", 
+                "px": "4361x3179", 
+                "title": "Monte finished",
+                "titulo": "Monte terminado", 
+                "size": "Acuarela, Medio mixto"
+            }
+        ],
+        "movement_EN": [ 
+            {
+                "img": "img/art_2018/0000-00-00_Black_1000x705.jpg", 
+                "thumb": "img/art_2018/0000-00-00_Black_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "0000", 
+                "date": "0000-00-00", 
+                "px": "1000x705", 
+                "title": " ", 
+                "size": " ",
+                "titulo": " ",
+                "tamano": " "
+            }, 
+            {
+                "img": "img/art_2018/2020-04-11_Monawera_4263x3185.jpg", 
+                "thumb": "img/art_2018/2020-04-11_Monawera_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2020", 
+                "date": "2020-04-11", 
+                "px": "4263x3185", 
+                "title": "Mona buera", 
+                "size": "Color. 30x40cm, 300g/m\u00b2",
+                "titulo": " ",
+                "tamano": " "
+            },
+
+            {
+                "img": "img/art_2023/2023-01-25_patas_3864x2888.JPG", 
+                "thumb": "img/art_2023/2023-04-11_patas_1000x705.JPG", 
+                "extension": "JPG", 
+                "year": "2023", 
+                "date": "2023-01-25", 
+                "px": "3864x2888", 
+                "title": "feet",
+                "titulo": "patas", 
+                "size": "65 x 51 cm, 300 g/m\u00b2"
+            }, 
+            {
+                "img": "img/art/2020-10-21_yhwh_6941x9372.jpg", 
+                "thumb": "img/art/2020-10-21_yhwh_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2020", 
+                "date": "2020-10-21", 
+                "px": "6941x9372", 
+                "title": "YHWH",
+                "titulo": "Yavé", 
+                "size": "Disponible"
+            },             
+        
+            {
+                "img": "img/art_2023/2023-02-19_yhwh2_2944x4024.JPG", 
+                "thumb": "img/art_2023/2023-02-19_yhwh2_1000x705.JPG", 
+                "extension": "JPG", 
+                "year": "2023", 
+                "date": "2023-02-19", 
+                "px": "2944x4024", 
+                "title": "YHWH 2",
+                "titulo": "Yavé 2",
+                "size": "L'aquarelle Canson 23 x 31 cm, 300 g/m\u00b2"
+                },
+
+            {
+                "img": "img/art_2018/0000-00-00_Black_1000x705.jpg", 
+                "thumb": "img/art_2018/0000-00-00_Black_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "0000", 
+                "date": "0000-00-00", 
+                "px": "1000x705", 
+                "title": " ", 
+                "size": " ",
+                "titulo": " ",
+                "tamano": " "
+            }, 
+            {
+                "img": "img/art_2018/0000-00-00_Black_1000x705.jpg", 
+                "thumb": "img/art_2018/0000-00-00_Black_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "0000", 
+                "date": "0000-00-00", 
+                "px": "1000x705", 
+                "title": " ", 
+                "size": " ",
+                "titulo": " ",
+                "tamano": " "
+            }, 
+            {
+                "img": "img/art_2022/2022-05-29_Theta_4279x3064.jpg", 
+                "thumb": "img/art_2022/2022-05-29_Theta_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2022", 
+                "date": "2022-05-29", 
+                "px": "4279x3064", 
+                "title": " ", 
+                "size": "  ",
+                "titulo": " ",
+                "tamano": " "
+            }, 
+            {
+                "img": "img/art_2022/2022-05-29_ateth_3883x2921.jpg", 
+                "thumb": "img/art_2022/2022-05-29_ateth_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2022", 
+                "date": "2022-05-29", 
+                "px": "3883x2921", 
+                "title": "Theta (\u03b8)", 
+                "size": " 20x30cm, 300g/m\u00b2, ",
+                "titulo": " ",
+                "tamano": " "
+            }, 
+            {
+                "img": "img/art_2018/2018-12-09_Aja_3_3488x5000.jpg", 
+                "thumb": "img/art_2018/2018-12-09_Aja_3_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2018", 
+                "date": "2018-12-09", 
+                "px": "3488x5000", 
+                "title": "Theta (\u03d1)", 
+                "size": "30x40cm, 300g/m\u00b2,."
+            }, 
+            {
+                "img": "img/art_2018/2018-12-09_Aja_2_2840x3985.jpg", 
+                "thumb": "img/art_2018/2018-12-09_Aja_2_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2018", 
+                "date": "2018-12-09", 
+                "px": "2840x3985", 
+                "title": "Aja", 
+                "size": "B&N. 30x40cm, 300g/m\u00b2, <em>VENDIDO</em>. Praga? CZ.",
+                "titulo": " ",
+                "tamano": " "
+            }, 
+            {
+                "img": "img/art_2018/0000-00-00_Black_1000x705.jpg", 
+                "thumb": "img/art_2018/0000-00-00_Black_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "0000", 
+                "date": "0000-00-00", 
+                "px": "1000x705", 
+                "title": "Aja", 
+                "size": "Color. 30x40cm, 300g/m\u00b2, <em>VENDIDO</em>. Karlsruhe, DE."
+            }, 
+            {
+                "img": "img/art_2018/0000-00-00_Black_1000x705.jpg", 
+                "thumb": "img/art_2018/0000-00-00_Black_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "0000", 
+                "date": "0000-00-00", 
+                "px": "1000x705", 
+                "title": " ", 
+                "size": "  ",
+                "titulo": " ",
+                "tamano": " "
+            }, 
+            {
+                "img": "img/art_2018/2019-05-16_janika2_5600x3864.jpg", 
+                "thumb": "img/art_2018/2019-05-16_janika2_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2019", 
+                "date": "2019-05-16", 
+                "px": "5600x3864", 
+                "title": " ", 
+                "size": "  ",
+                "titulo": " ",
+                "tamano": " "
+            }, 
+            {
+                "img": "img/art_2018/2019-03-16_janika1_5184x3584.jpg", 
+                "thumb": "img/art_2018/2019-03-16_janika1_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2019", 
+                "date": "2019-03-16", 
+                "px": "5184x3584", 
+                "title": "Janika", 
+                "size": "Color. 30x40cm, 300g/m\u00b2, <em>VENDIDO</em>. Frankfurt, DE."
+            }, 
+            {
+                "img": "img/art_2018/2019_04_26_Pina_3785x3832.jpg", 
+                "thumb": "img/art_2018/2019_04_26_Pina_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2019_04_26_Pina_3785x3832.jpg", 
+                "date": "2019", 
+                "px": "3785x3832", 
+                "title": "Janika", 
+                "size": "B&N. 30x40cm, 300g/m\u00b2, <em>VENDIDO</em>. Frankfurt? DE."
+            }, 
+            {
+                "img": "img/art_2018/2019_05_20_Pina2_3640x3840.jpg", 
+                "thumb": "img/art_2018/2019_05_20_Pina2_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2019_05_20_Pina2_3640x3840.jpg", 
+                "date": "2019", 
+                "px": "3640x3840", 
+                "title": "Pina", 
+                "size": "B&N. 30x40cm, 300g/m\u00b2, <em>VENDIDO</em>. Bogot\u00e1, CO.",
+                "titulo": " ",
+                "tamano": " "
+            }, 
+            {
+                "img": "img/art_2018/0000-00-00_Black_1000x705.jpg", 
+                "thumb": "img/art_2018/0000-00-00_Black_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "0000", 
+                "date": "0000-00-00", 
+                "px": "1000x705", 
+                "title": "Pina", 
+                "size": "Color. 30x40cm, 300g/m\u00b2, <em>VENDIDO</em>. Karlsruhe, DE."
+            }, 
+            {
+                "img": "img/art_2018/0000-00-00_Black_1000x705.jpg", 
+                "thumb": "img/art_2018/0000-00-00_Black_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "0000", 
+                "date": "0000-00-00", 
+                "px": "1000x705", 
+                "title": " ", 
+                "size": "  ",
+                "titulo": " ",
+                "tamano": " "
+            }, 
+            {
+                "img": "img/art_2018/2019-02-15_Esha_3971x5610.jpg", 
+                "thumb": "img/art_2018/2019-02-15_Esha_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2019", 
+                "date": "2019-02-15", 
+                "px": "3971x5610", 
+                "title": " ", 
+                "size": "  ",
+                "titulo": " ",
+                "tamano": " "
+            }, 
+            {
+                "img": "img/art_2018/2019-02-14_Esha_Estudio_3360x4800.jpg", 
+                "thumb": "img/art_2018/2019-02-14_Esha_Estudio_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2019", 
+                "date": "2019-02-14", 
+                "px": "3360x4800", 
+                "title": "Pen\u00faltima", 
+                "size": "Color. 30x40cm, 300g/m\u00b2, <em>VENDIDO</em>. Frankfurt, DE.",
+                "titulo": " ",
+                "tamano": " "
+            }, 
+            {
+                "img": "img/art_2018/2020-02-10_Pez_3024x4032.jpg", 
+                "thumb": "img/art_2018/2020-02-10_Pez_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2020", 
+                "date": "2020-02-10", 
+                "px": "3024x4032", 
+                "title": "Pen\u00faltima", 
+                "size": "B&N. 30x40cm, 300g/m\u00b2.",
+                "titulo": " ",
+                "tamano": " "
+            }, 
+            {
+                "img": "img/art_2018/2020-02-10_Mona_Bichi_3024x4032.jpg", 
+                "thumb": "img/art_2018/2020-02-10_Mona_Bichi_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2020", 
+                "date": "2020-02-10", 
+                "px": "3024x4032", 
+                "title": "Derretir", 
+                "size": "Estudios en papel",
+                "titulo": " ",
+                "tamano": " "
+            }, 
+            {
+                "img": "img/art/2021-05-19_derretir_2750x3586.jpg", 
+                "thumb": "img/art/2021-05-21_derretir_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2021", 
+                "date": "2021-05-19", 
+                "px": "2750x3586", 
+                "title": "Derretir", 
+                "size": "Estudio blanco y negro",
+                "titulo": " ",
+                "tamano": " "
+            }, 
+            {
+                "img": "img/art_2018/2020-02-10_Monawera_3024x4032.jpg", 
+                "thumb": "img/art_2018/2020-02-10_Monawera_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2020", 
+                "date": "2020-02-10", 
+                "px": "3024x4032", 
+                "title": "Derretir", 
+                "size": "Color. 30x40cm, 300g/m\u00b2.",
+                "titulo": " ",
+                "tamano": " "
+            }, 
+            {
+                "img": "img/art_2018/2020-03-20_Monawera_1440x1086.jpg", 
+                "thumb": "img/art_2018/2020-03-23_Monawera_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2020", 
+                "date": "2020-03-20", 
+                "px": "1440x1086", 
+                "title": "Mona wera", 
+                "size": "Estudi en blanco y negro."
+            }, 
+            {
+                "img": "img/art_2018/2020-04-11_Monawera_4263x3185.jpg", 
+                "thumb": "img/art_2018/2020-04-11_Monawera_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2020", 
+                "date": "2020-04-11", 
+                "px": "4263x3185", 
+                "title": "Mona buera", 
+                "size": "Color. 30x40cm, 300g/m\u00b2",
+                "titulo": " ",
+                "tamano": " "
+            }, 
+            {
+                "img": "img/art_2018/2018_11_14_Strichpunkt_4009x5704.jpg", 
+                "thumb": "img/art_2018/2018_11_14_Strichpunkt_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2018_11_14_Strichpunkt_4009x5704.jpg", 
+                "date": "2018", 
+                "px": "4009x5704", 
+                "title": "Mona buera", 
+                "size": "Color. 30x40cm, 300g/m\u00b2",
+                "titulo": " ",
+                "tamano": " "
+            }
+        ],
+        "old_EN": [ 
+            {
+                "img": "img/art_old/2006_Collage_1416x1708.jpg", 
+                "thumb": "img/art_old/2006_Collage_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2006_Collage_1416x1708.jpg", 
+                "date": "2006", 
+                "px": "1416x1708", 
+                "title": "Galaxia", 
+                "size": "Reproducci\u00f3n de cartas. Postkarte, 150g/m\u00b2."
+            }, 
+            {
+                "img": "img/art_old/2007_Collage_2500x3000.jpg", 
+                "thumb": "img/art_old/2007_Collage_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2007_Collage_2500x3000.jpg", 
+                "date": "2007", 
+                "px": "2500x3000", 
+                "title": "Chau, David", 
+                "size": "Chau. Postkarte, 150g/m\u00b2."
+            }, 
+            {
+                "img": "img/art_old/2006-10-03_corazon__tell_me_it_s_over_1275x1635.jpg", 
+                "thumb": "img/art_old/2006-10-03_corazon__tell_me_it_s_over_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2006", 
+                "date": "2006-10-03", 
+                "px": "1275x1635", 
+                "title": "Archive", 
+                "size": "These are recovered pieces from a Deviantart archive or old notebooks. Bad quality ensues."
+            }, 
+            {
+                "img": "img/art_old/2006-10-03_swing__swing_1275x1637.jpg", 
+                "thumb": "img/art_old/2006-10-03_swing__swing_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2006", 
+                "date": "2006-10-03", 
+                "px": "1275x1637", 
+                "title": "2006 Archive", 
+                "size": "P. Old drawings, all sub 300px quality"
+            }, 
+            {
+                "img": "img/art_old/2007_01_11_anemonas_lloviendo_3286x2479.jpg", 
+                "thumb": "img/art_old/2007_01_11_anemonas_lloviendo_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2007_01_11_anemonas_lloviendo_3286x2479.jpg", 
+                "date": "2007", 
+                "px": "3286x2479", 
+                "title": "2007 Archive", 
+                "size": "Tiny bois as well, all in a gauntlet."
+            }, 
+            {
+                "img": "img/art_old/2007-04-13_mictlantecuhtli_2168x1684.jpg", 
+                "thumb": "img/art_old/2007-03-01_mictlantecuhtli_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2007", 
+                "date": "2007-04-13", 
+                "px": "2168x1684", 
+                "title": "Coraz\u00f3n", 
+                "size": "Tell me it's over. I think I was listening too much <a href=\"https://www.dredg.com/\">dredg</a>."
+            }, 
+            {
+                "img": "img/art_old/2007-09-30_el_mundo_1275x1610.jpg", 
+                "thumb": "img/art_old/2007-09-30_el_mundo_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2007", 
+                "date": "2007-09-30", 
+                "px": "1275x1610", 
+                "title": "Swing swing", 
+                "size": "I don't even like swings. And I was not that sad."
+            }, 
+            {
+                "img": "img/art_old/2008-05-27_uno__dos_y_cuatro_al_viento_1100x839.png", 
+                "thumb": "img/art_old/2008-05-27_uno__dos_y_cuatro_al_viento_1000x705.jpg", 
+                "extension": "png", 
+                "year": "2008", 
+                "date": "2008-05-27", 
+                "px": "1100x839", 
+                "title": "An\u00e9monas Lloviendo", 
+                "size": "One of the few high resolution left over from the old archive."
+            }, 
+            {
+                "img": "img/art_old/2010-11-11_Circular_1417x1417.jpg", 
+                "thumb": "img/art_old/2010-11-11_Circular_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2010", 
+                "date": "2010-11-11", 
+                "px": "1417x1417", 
+                "title": "Mictlantecuhtli", 
+                "size": "God of dead"
+            }, 
+            {
+                "img": "img/art_old/2011-01-01_Fiebre_inducida_por_coma_3400x4400.jpg", 
+                "thumb": "img/art_old/2011-01-01_Fiebre_inducida_por_coma_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2011", 
+                "date": "2011-01-01", 
+                "px": "3400x4400", 
+                "title": "Mictlantecuhtli", 
+                "size": "God of dead"
+            }
+        ],
+        "photo_EN": [
+            {
+                "img": "img/photo/IMG_4301.JPG", 
+                "thumb": "img/photo/IMG_4301sm.JPG", 
+                "extension": "JPG", 
+                "year": "IMG_2349.JPG", 
+                "date": "IMG", 
+                "px": "0161", 
+                "title": "asterik", 
+                "titulo": "asterik mochis core", 
+                "size": "Los Mochis, Sin. MX"
+            },
+            {
+                "img": "img/photo/IMG_4359.JPG", 
+                "thumb": "img/photo/IMG_4359sm.JPG", 
+                "extension": "JPG", 
+                "year": "IMG_2349.JPG", 
+                "date": "IMG", 
+                "px": "0161", 
+                "title": "aves", 
+                "titulo": "aves", 
+                "size": "Karlsruhe, DE"
+            },
+            {
+                "img": "img/photo/IMG_4233.JPG", 
+                "thumb": "img/photo/IMG_4233sm.JPG", 
+                "extension": "JPG", 
+                "year": "IMG_2349.JPG", 
+                "date": "IMG", 
+                "px": "0161", 
+                "title": "color pagado por el gobierno", 
+                "titulo": "color pagado por el gobierno", 
+                "size": "Topolobampo, Sin. MX"
+            },
+            {
+                "img": "img/photo/IMG_3958.JPG", 
+                "thumb": "img/photo/IMG_3958sm.JPG", 
+                "extension": "JPG", 
+                "year": "IMG_2349.JPG", 
+                "date": "IMG", 
+                "px": "0161", 
+                "title": "tostitos", 
+                "titulo": "tostitos", 
+                "size": "Topolobampo, Sin. MX"
+            },
+            {
+                "img": "img/photo/IMG_3620.JPG", 
+                "thumb": "img/photo/IMG_3620sm.JPG", 
+                "extension": "JPG", 
+                "year": "IMG_2349.JPG", 
+                "date": "IMG", 
+                "px": "0161", 
+                "title": "jesus", 
+                "titulo": "jesus", 
+                "size": "Los Mochis, Sin. MX"
+            },
+            {
+                "img": "img/photo/IMG_3532.JPG", 
+                "thumb": "img/photo/IMG_3532sm.JPG", 
+                "extension": "JPG", 
+                "year": "IMG_2349.JPG", 
+                "date": "IMG", 
+                "px": "0161", 
+                "title": "el rio", 
+                "titulo": "el rio", 
+                "size": "El Fuerte, Sin. MX"
+            },
+            {
+                "img": "img/photo/IMG_3486.JPG", 
+                "thumb": "img/photo/IMG_3486sm.JPG", 
+                "extension": "JPG", 
+                "year": "IMG_2349.JPG", 
+                "date": "IMG", 
+                "px": "0161", 
+                "title": "Cacti", 
+                "titulo": "catuses", 
+                "size": "El Fuerte, Sin. MX"
+            },
+            {
+                "img": "img/photo/IMG_3464.JPG", 
+                "thumb": "img/photo/IMG_3464sm.JPG", 
+                "extension": "JPG", 
+                "year": "IMG_2349.JPG", 
+                "date": "IMG", 
+                "px": "0161", 
+                "title": "Pan de mujer", 
+                "titulo": "Pan de Mujer", 
+                "size": "???, Sin. MX"
+            },
+            {
+                "img": "img/photo/IMG_3009.JPG", 
+                "thumb": "img/photo/IMG_3009sm.JPG", 
+                "extension": "JPG", 
+                "year": "IMG_2349.JPG", 
+                "date": "IMG", 
+                "px": "0161", 
+                "title": "Svendborg", 
+                "titulo": "Svendborg", 
+                "size": "Svendborg, SE"
+            },
+            {
+                "img": "img/photo/IMG_2933.JPG", 
+                "thumb": "img/photo/IMG_2933sm.JPG", 
+                "extension": "JPG", 
+                "year": "IMG_2349.JPG", 
+                "date": "IMG", 
+                "px": "0161", 
+                "title": "30", 
+                "titulo": "30", 
+                "size": "Berlin, DE"
+            }, 
+            {
+                "img": "img/photo/IMG_2911.JPG", 
+                "thumb": "img/photo/IMG_2911sm.JPG", 
+                "extension": "JPG", 
+                "year": "IMG_2349.JPG", 
+                "date": "IMG", 
+                "px": "0161", 
+                "title": "flowers", 
+                "titulo": "flores", 
+                "size": "Karlsruhe, DE"
+            }, 
+            {
+                "img": "img/photo/IMG_2439.JPG", 
+                "thumb": "img/photo/IMG_2439sm.JPG", 
+                "extension": "JPG", 
+                "year": "IMG_2349.JPG", 
+                "date": "IMG", 
+                "px": "0161", 
+                "title": "pajaro", 
+                "titulo": "pàjaro", 
+                "size": "Oporto, PT"
+            }, 
+            {
+                "img": "img/photo/IMG_0161.JPG", 
+                "thumb": "img/photo/IMG_0161sm.JPG", 
+                "extension": "JPG", 
+                "year": "IMG_0161.JPG", 
+                "date": "IMG", 
+                "px": "0161", 
+                "title": "knots", 
+                "titulo": "nudos", 
+                "size": "Canc\u00fan, MEX"
+            }, 
+            {
+                "img": "img/photo/IMG_0233.JPG", 
+                "thumb": "img/photo/IMG_0233sm.JPG", 
+                "extension": "JPG", 
+                "year": "IMG_0233.JPG", 
+                "date": "IMG", 
+                "px": "0233", 
+                "title": "Corrupt", 
+                "titulo": "Corruptos", 
+                "size": "Canc\u00fan, MEX"
+            }, 
+            {
+                "img": "img/photo/IMG_1025.JPG", 
+                "thumb": "img/photo/IMG_1025sm.JPG", 
+                "extension": "JPG", 
+                "year": "IMG_1025.JPG", 
+                "date": "IMG", 
+                "px": "1025", 
+                "title": "sunsitting ", 
+                "titulo": "Sentadas al sol en ", 
+                "size": "Sevilla, ES"
+            }, 
+            {
+                "img": "img/photo/IMG_1122.JPG", 
+                "thumb": "img/photo/IMG_1122sm.JPG", 
+                "extension": "JPG", 
+                "year": "IMG_1122.JPG", 
+                "date": "IMG", 
+                "px": "1122", 
+                "title": "street", 
+                "titulo": "Las calles", 
+                "size": "Sevilla, ES"
+            }, 
+            {
+                "img": "img/photo/IMG_8204.JPG", 
+                "thumb": "img/photo/IMG_8204sm.JPG", 
+                "extension": "JPG", 
+                "year": "IMG_8204.JPG", 
+                "date": "IMG", 
+                "px": "8204", 
+                "title": "dessert grass", 
+                "titulo": "Pasto en el desierto", 
+                "size": "Abu Dhabi, EAU"
+            }, 
+            {
+                "img": "img/photo/IMG_9640.JPG", 
+                "thumb": "img/photo/IMG_9640sm.JPG", 
+                "extension": "JPG", 
+                "year": "IMG_9640.JPG", 
+                "date": "IMG", 
+                "px": "9640", 
+                "title": "houses", 
+                "titulo": "Las casas", 
+                "size": "Heidelberg, DE"
+            }, 
+            {
+                "img": "img/photo/IMG_9681.JPG", 
+                "thumb": "img/photo/IMG_9681sm.JPG", 
+                "extension": "JPG", 
+                "year": "IMG_9681.JPG", 
+                "date": "IMG", 
+                "px": "9681", 
+                "title": "flowers", 
+                "titulo": "Flores", 
+                "size": "Los Mochis, MEX"
+            }, 
+            {
+                "img": "img/photo/IMG_9689.JPG", 
+                "thumb": "img/photo/IMG_9689sm.JPG", 
+                "extension": "JPG", 
+                "year": "IMG_9689.JPG", 
+                "date": "IMG", 
+                "px": "9689", 
+                "title": "Cerro de la memoria", 
+                "titulo": "Cerro de la memoria", 
+                "size": "Los Mochis, MEX"
+            }, 
+            {
+                "img": "img/photo/IMG_9691.JPG", 
+                "thumb": "img/photo/IMG_9691sm.JPG", 
+                "extension": "JPG", 
+                "year": "IMG_9691.JPG", 
+                "date": "IMG", 
+                "px": "9691", 
+                "title": "Los Mochis", 
+                "titulo": "Los Mochis", 
+                "size": "Los Mochis, MEX"
+            }, 
+            {
+                "img": "img/photo/IMG_9809.JPG", 
+                "thumb": "img/photo/IMG_9809sm.JPG", 
+                "extension": "JPG", 
+                "year": "IMG_9809.JPG", 
+                "date": "IMG", 
+                "px": "9809", 
+                "title": "carroña", 
+                "titulo": "BUITRIS EN", 
+                "size": "Los Mochis, MEX"
+            }, 
+            {
+                "img": "img/photo/IMG_9826.JPG", 
+                "thumb": "img/photo/IMG_9826sm.JPG", 
+                "extension": "JPG", 
+                "year": "IMG_9826.JPG", 
+                "date": "IMG", 
+                "px": "9826", 
+                "title": "Baviri", 
+                "titulo": "Baviri", 
+                "size": "Isla El Maviri, MEX"
+            }, 
+            {
+                "img": "img/photo/IMG_9870.JPG", 
+                "thumb": "img/photo/IMG_9870sm.JPG", 
+                "extension": "JPG", 
+                "year": "IMG_9870.JPG", 
+                "date": "IMG", 
+                "px": "9870", 
+                "title": "fishermen", 
+                "titulo": "Pescadores", 
+                "size": "Topolobampo, MEX"
+            }, 
+            {
+                "img": "img/photo/IMG_9902.JPG", 
+                "thumb": "img/photo/IMG_9902sm.JPG", 
+                "extension": "JPG", 
+                "year": "IMG_9902.JPG", 
+                "date": "IMG", 
+                "px": "9902", 
+                "title": "Organillero", 
+                "size": "DF, MEX"
+            }, 
+            {
+                "img": "img/photo/IMG_9906.JPG", 
+                "thumb": "img/photo/IMG_9906sm.JPG", 
+                "extension": "JPG", 
+                "year": "IMG_9906.JPG", 
+                "date": "IMG", 
+                "px": "9906", 
+                "title": "2 coyotes", 
+                "titulo": "Dos coyotes, 50 pesos (chingue su madre)", 
+                "size": "DF, MEX"
+            }, 
+            {
+                "img": "img/photo/IMG_9935.JPG", 
+                "thumb": "img/photo/IMG_9935sm.JPG", 
+                "extension": "JPG", 
+                "year": "IMG_9935.JPG", 
+                "date": "IMG", 
+                "px": "9935", 
+                "title": "nine lights", 
+                "titulo": "NUEVE LUCES", 
+                "size": "Canc\u00fan, MEX"
+            }
+        ]
+    }
+}

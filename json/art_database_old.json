@@ -1,0 +1,106 @@
+{
+    "artwork": {
+        "pieces": [ 
+            {
+                "img": "img/art_old/2006_Collage_1416x1708.jpg", 
+                "thumb": "img/art_old/2006_Collage_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2006_Collage_1416x1708.jpg", 
+                "date": "2006", 
+                "px": "1416x1708", 
+                "title": "Galaxia", 
+                "size": "Reproducci\u00f3n de cartas. Postkarte, 150g/m\u00b2."
+            }, 
+            {
+                "img": "img/art_old/2007_Collage_2500x3000.jpg", 
+                "thumb": "img/art_old/2007_Collage_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2007_Collage_2500x3000.jpg", 
+                "date": "2007", 
+                "px": "2500x3000", 
+                "title": "Chau, David", 
+                "size": "Chau. Postkarte, 150g/m\u00b2."
+            }, 
+            {
+                "img": "img/art_old/2006-10-03_corazon__tell_me_it_s_over_1275x1635.jpg", 
+                "thumb": "img/art_old/2006-10-03_corazon__tell_me_it_s_over_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2006", 
+                "date": "2006-10-03", 
+                "px": "1275x1635", 
+                "title": "Archive", 
+                "size": "These are recovered pieces from a Deviantart archive or old notebooks. Bad quality ensues."
+            }, 
+            {
+                "img": "img/art_old/2006-10-03_swing__swing_1275x1637.jpg", 
+                "thumb": "img/art_old/2006-10-03_swing__swing_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2006", 
+                "date": "2006-10-03", 
+                "px": "1275x1637", 
+                "title": "2006 Archive", 
+                "size": "P. Old drawings, all sub 300px quality"
+            }, 
+            {
+                "img": "img/art_old/2007_01_11_anemonas_lloviendo_3286x2479.jpg", 
+                "thumb": "img/art_old/2007_01_11_anemonas_lloviendo_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2007_01_11_anemonas_lloviendo_3286x2479.jpg", 
+                "date": "2007", 
+                "px": "3286x2479", 
+                "title": "2007 Archive", 
+                "size": "Tiny bois as well, all in a gauntlet."
+            }, 
+            {
+                "img": "img/art_old/2007-04-13_mictlantecuhtli_2168x1684.jpg", 
+                "thumb": "img/art_old/2007-03-01_mictlantecuhtli_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2007", 
+                "date": "2007-04-13", 
+                "px": "2168x1684", 
+                "title": "Coraz\u00f3n", 
+                "size": "Tell me it's over. I think I was listening too much <a href=\"https://www.dredg.com/\">dredg</a>."
+            }, 
+            {
+                "img": "img/art_old/2007-09-30_el_mundo_1275x1610.jpg", 
+                "thumb": "img/art_old/2007-09-30_el_mundo_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2007", 
+                "date": "2007-09-30", 
+                "px": "1275x1610", 
+                "title": "Swing swing", 
+                "size": "I don't even like swings. And I was not that sad."
+            }, 
+            {
+                "img": "img/art_old/2008-05-27_uno__dos_y_cuatro_al_viento_1100x839.png", 
+                "thumb": "img/art_old/2008-05-27_uno__dos_y_cuatro_al_viento_1000x705.jpg", 
+                "extension": "png", 
+                "year": "2008", 
+                "date": "2008-05-27", 
+                "px": "1100x839", 
+                "title": "An\u00e9monas Lloviendo", 
+                "size": "One of the few high resolution left over from the old archive."
+            }, 
+            {
+                "img": "img/art_old/2010-11-11_Circular_1417x1417.jpg", 
+                "thumb": "img/art_old/2010-11-11_Circular_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2010", 
+                "date": "2010-11-11", 
+                "px": "1417x1417", 
+                "title": "Mictlantecuhtli", 
+                "size": "God of dead"
+            }, 
+            {
+                "img": "img/art_old/2011-01-01_Fiebre_inducida_por_coma_3400x4400.jpg", 
+                "thumb": "img/art_old/2011-01-01_Fiebre_inducida_por_coma_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2011", 
+                "date": "2011-01-01", 
+                "px": "3400x4400", 
+                "title": "Mictlantecuhtli", 
+                "size": "God of dead"
+            }
+        ]
+    }
+}

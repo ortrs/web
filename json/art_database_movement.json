@@ -1,0 +1,226 @@
+{
+    "artwork": {
+        "pieces": [ 
+            {
+                "img": "img/art_2018/0000-00-00_Black_1000x705.jpg", 
+                "thumb": "img/art_2018/0000-00-00_Black_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "0000", 
+                "date": "0000-00-00", 
+                "px": "1000x705", 
+                "title": "Movement", 
+                "size": "Here some evolution of artwork."
+            }, 
+            {
+                "img": "img/art_2022/2022-05-29_Theta_4279x3064.jpg", 
+                "thumb": "img/art_2022/2022-05-29_Theta_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2022", 
+                "date": "2022-05-29", 
+                "px": "4279x3064", 
+                "title": " ", 
+                "size": "  "
+            }, 
+            {
+                "img": "img/art_2022/2022-05-29_ateth_3883x2921.jpg", 
+                "thumb": "img/art_2022/2022-05-29_ateth_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2022", 
+                "date": "2022-05-29", 
+                "px": "3883x2921", 
+                "title": "Theta (\u03b8)", 
+                "size": " 20x30cm, 300g/m\u00b2, "
+            }, 
+            {
+                "img": "img/art_2018/2018-12-09_Aja_3_3488x5000.jpg", 
+                "thumb": "img/art_2018/2018-12-09_Aja_3_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2018", 
+                "date": "2018-12-09", 
+                "px": "3488x5000", 
+                "title": "Theta (\u03d1)", 
+                "size": "30x40cm, 300g/m\u00b2,."
+            }, 
+            {
+                "img": "img/art_2018/2018-12-09_Aja_2_2840x3985.jpg", 
+                "thumb": "img/art_2018/2018-12-09_Aja_2_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2018", 
+                "date": "2018-12-09", 
+                "px": "2840x3985", 
+                "title": "Aja", 
+                "size": "B&N. 30x40cm, 300g/m\u00b2, <em>VENDIDO</em>. Praga? CZ."
+            }, 
+            {
+                "img": "img/art_2018/0000-00-00_Black_1000x705.jpg", 
+                "thumb": "img/art_2018/0000-00-00_Black_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "0000", 
+                "date": "0000-00-00", 
+                "px": "1000x705", 
+                "title": "Aja", 
+                "size": "Color. 30x40cm, 300g/m\u00b2, <em>VENDIDO</em>. Karlsruhe, DE."
+            }, 
+            {
+                "img": "img/art_2018/0000-00-00_Black_1000x705.jpg", 
+                "thumb": "img/art_2018/0000-00-00_Black_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "0000", 
+                "date": "0000-00-00", 
+                "px": "1000x705", 
+                "title": " ", 
+                "size": "  "
+            }, 
+            {
+                "img": "img/art_2018/2019-05-16_janika2_5600x3864.jpg", 
+                "thumb": "img/art_2018/2019-05-16_janika2_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2019", 
+                "date": "2019-05-16", 
+                "px": "5600x3864", 
+                "title": " ", 
+                "size": "  "
+            }, 
+            {
+                "img": "img/art_2018/2019-03-16_janika1_5184x3584.jpg", 
+                "thumb": "img/art_2018/2019-03-16_janika1_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2019", 
+                "date": "2019-03-16", 
+                "px": "5184x3584", 
+                "title": "Janika", 
+                "size": "Color. 30x40cm, 300g/m\u00b2, <em>VENDIDO</em>. Frankfurt, DE."
+            }, 
+            {
+                "img": "img/art_2018/2019_04_26_Pina_3785x3832.jpg", 
+                "thumb": "img/art_2018/2019_04_26_Pina_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2019_04_26_Pina_3785x3832.jpg", 
+                "date": "2019", 
+                "px": "3785x3832", 
+                "title": "Janika", 
+                "size": "B&N. 30x40cm, 300g/m\u00b2, <em>VENDIDO</em>. Frankfurt? DE."
+            }, 
+            {
+                "img": "img/art_2018/2019_05_20_Pina2_3640x3840.jpg", 
+                "thumb": "img/art_2018/2019_05_20_Pina2_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2019_05_20_Pina2_3640x3840.jpg", 
+                "date": "2019", 
+                "px": "3640x3840", 
+                "title": "Pina", 
+                "size": "B&N. 30x40cm, 300g/m\u00b2, <em>VENDIDO</em>. Bogot\u00e1, CO."
+            }, 
+            {
+                "img": "img/art_2018/0000-00-00_Black_1000x705.jpg", 
+                "thumb": "img/art_2018/0000-00-00_Black_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "0000", 
+                "date": "0000-00-00", 
+                "px": "1000x705", 
+                "title": "Pina", 
+                "size": "Color. 30x40cm, 300g/m\u00b2, <em>VENDIDO</em>. Karlsruhe, DE."
+            }, 
+            {
+                "img": "img/art_2018/0000-00-00_Black_1000x705.jpg", 
+                "thumb": "img/art_2018/0000-00-00_Black_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "0000", 
+                "date": "0000-00-00", 
+                "px": "1000x705", 
+                "title": " ", 
+                "size": "  "
+            }, 
+            {
+                "img": "img/art_2018/2019-02-15_Esha_3971x5610.jpg", 
+                "thumb": "img/art_2018/2019-02-15_Esha_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2019", 
+                "date": "2019-02-15", 
+                "px": "3971x5610", 
+                "title": " ", 
+                "size": "  "
+            }, 
+            {
+                "img": "img/art_2018/2019-02-14_Esha_Estudio_3360x4800.jpg", 
+                "thumb": "img/art_2018/2019-02-14_Esha_Estudio_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2019", 
+                "date": "2019-02-14", 
+                "px": "3360x4800", 
+                "title": "Pen\u00faltima", 
+                "size": "Color. 30x40cm, 300g/m\u00b2, <em>VENDIDO</em>. Frankfurt, DE."
+            }, 
+            {
+                "img": "img/art_2018/2020-02-10_Pez_3024x4032.jpg", 
+                "thumb": "img/art_2018/2020-02-10_Pez_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2020", 
+                "date": "2020-02-10", 
+                "px": "3024x4032", 
+                "title": "Pen\u00faltima", 
+                "size": "B&N. 30x40cm, 300g/m\u00b2."
+            }, 
+            {
+                "img": "img/art_2018/2020-02-10_Mona_Bichi_3024x4032.jpg", 
+                "thumb": "img/art_2018/2020-02-10_Mona_Bichi_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2020", 
+                "date": "2020-02-10", 
+                "px": "3024x4032", 
+                "title": "Derretir", 
+                "size": "Estudios en papel"
+            }, 
+            {
+                "img": "img/art/2021-05-19_derretir_2750x3586.jpg", 
+                "thumb": "img/art/2021-05-21_derretir_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2021", 
+                "date": "2021-05-19", 
+                "px": "2750x3586", 
+                "title": "Derretir", 
+                "size": "Estudio blanco y negro"
+            }, 
+            {
+                "img": "img/art_2018/2020-02-10_Monawera_3024x4032.jpg", 
+                "thumb": "img/art_2018/2020-02-10_Monawera_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2020", 
+                "date": "2020-02-10", 
+                "px": "3024x4032", 
+                "title": "Derretir", 
+                "size": "Color. 30x40cm, 300g/m\u00b2."
+            }, 
+            {
+                "img": "img/art_2018/2020-03-20_Monawera_1440x1086.jpg", 
+                "thumb": "img/art_2018/2020-03-23_Monawera_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2020", 
+                "date": "2020-03-20", 
+                "px": "1440x1086", 
+                "title": "Mona wera", 
+                "size": "Estudi en blanco y negro."
+            }, 
+            {
+                "img": "img/art_2018/2020-04-11_Monawera_4263x3185.jpg", 
+                "thumb": "img/art_2018/2020-04-11_Monawera_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2020", 
+                "date": "2020-04-11", 
+                "px": "4263x3185", 
+                "title": "Mona buera", 
+                "size": "Color. 30x40cm, 300g/m\u00b2"
+            }, 
+            {
+                "img": "img/art_2018/2018_11_14_Strichpunkt_4009x5704.jpg", 
+                "thumb": "img/art_2018/2018_11_14_Strichpunkt_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2018_11_14_Strichpunkt_4009x5704.jpg", 
+                "date": "2018", 
+                "px": "4009x5704", 
+                "title": "Mona buera", 
+                "size": "Color. 30x40cm, 300g/m\u00b2"
+            }
+        ]
+    }
+}

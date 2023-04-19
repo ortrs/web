@@ -1,0 +1,306 @@
+{
+    "artwork": {
+        "pieces": [
+            {
+                "img": "img/art_2023/2023-02-04_mini_4600x3064.JPG", 
+                "thumb": "img/art_2023/2023-02-04_miniB_1000x705.JPG", 
+                "extension": "JPG", 
+                "year": "2023", 
+                "date": "2023-02-04", 
+                "px": "4600x3064", 
+                "title": "mini (postkarte)", 
+                "size": "148 x 100 mm, 140 lb/m\u00b2"
+            }, 
+            {
+                "img": "img/art_2023/2023-01-25_patas_3864x2888.JPG", 
+                "thumb": "img/art_2023/2023-01-25_patas_1000x705.JPG", 
+                "extension": "JPG", 
+                "year": "2023", 
+                "date": "2023-01-25", 
+                "px": "3864x2888", 
+                "title": "PATAS", 
+                "size": "65 x 51 cm, 300 g/m\u00b2"
+            }, 
+            {
+                "img": "img/art_2022/2022-08-08_ogos_4191x3102.jpg", 
+                "thumb": "img/art_2022/2022-08-08_ogos_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2022", 
+                "date": "2022-08-08", 
+                "px": "4191x3102", 
+                "title": "Ojos", 
+                "size": "9.1 x 12.2 inches, 300g/m\u00b2,SOLD."
+            }, 
+            {
+                "img": "img/art_2022/2022-07-25_Retrospectiva_4200x2926.jpg", 
+                "thumb": "img/art_2022/2022-07-25_Retrospectiva_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2022", 
+                "date": "2022-07-25", 
+                "px": "4200x2926", 
+                "title": "Retrospectiva: 2008 - 2022", 
+                "size": "9.1 x 12.2 inches, 300g/m\u00b2,."
+            }, 
+            {
+                "img": "img/art_2022/2022-05-29_ateth_3883x2921.jpg", 
+                "thumb": "img/art_2022/2022-05-29_ateth_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2022", 
+                "date": "2022-05-29", 
+                "px": "3883x2921", 
+                "title": "Theta (\u03d1)", 
+                "size": "30x40cm, 300g/m\u00b2,."
+            }, 
+            {
+                "img": "img/art_2022/2022-05-16_caras_4417x3220.jpg", 
+                "thumb": "img/art_2022/2022-05-16_caras_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2022", 
+                "date": "2022-05-16", 
+                "px": "4417x3220", 
+                "title": "caras", 
+                "size": "Disponible"
+            }, 
+            {
+                "img": "img/art_2022/2022-05-08_ogos_4800x3476.jpg", 
+                "thumb": "img/art_2022/2022-05-08_ogos_1000x705_scan.jpg", 
+                "extension": "jpg", 
+                "year": "2022", 
+                "date": "2022-05-08", 
+                "px": "4800x3476", 
+                "title": "ogos", 
+                "size": "Available"
+            }, 
+            {
+                "img": "img/art_2022/2022-03-02_not_poli_4284x3262.jpg", 
+                "thumb": "img/art_2022/2022-03-02_not_poli_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2022", 
+                "date": "2022-03-02", 
+                "px": "4284x3262", 
+                "title": "This is not a political statement/panzona/caf\u00e9nmente", 
+                "size": "Disponible"
+            }, 
+            {
+                "img": "img/art_2022/2022-02-24_blau_4416x3140.jpg", 
+                "thumb": "img/art_2022/2022-02-24_blau_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2022", 
+                "date": "2022-02-24", 
+                "px": "4416x3140", 
+                "title": "Azul", 
+                "size": "Disponible"
+            }, 
+            {
+                "img": "img/art/2022-02-18_oceano_3784x2706.jpg", 
+                "thumb": "img/art/2022-02-18_oceano_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2022", 
+                "date": "2022-02-18", 
+                "px": "3784x2706", 
+                "title": "oc\u00e9ano", 
+                "size": "<em>VENDIDO</em>. Las Palmas, ES."
+            }, 
+            {
+                "img": "img/art/2021-05-10_Las_cruces_entre_4400x3100.jpg", 
+                "thumb": "img/art/2021-05-10_Las_cruces_entre_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2021", 
+                "date": "2021-05-10", 
+                "px": "4400x3100", 
+                "title": "Las cruces", 
+                "size": " <em>VENDIDO</em>. Karlsruhe, DE."
+            }, 
+            {
+                "img": "img/art/2021-08-23_Geometria_4200x2900.jpg", 
+                "thumb": "img/art/2021-08-23_Geometria_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2021", 
+                "date": "2021-08-23", 
+                "px": "4200x2900", 
+                "title": "Geometr\u00eda", 
+                "size": "<em>VENDIDO</em>. Karlsruhe, DE."
+            }, 
+            {
+                "img": "img/art/2021-05-26_Shh_silencio_4400x3100.jpg", 
+                "thumb": "img/art/2021-05-26_Shh_silencio_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2021", 
+                "date": "2021-05-26", 
+                "px": "4400x3100", 
+                "title": "Silencio", 
+                "size": "<em>VENDIDO</em>. Karlsruhe, DE."
+            }, 
+            {
+                "img": "img/art/2021-07-26_Media_4400x3100.jpg", 
+                "thumb": "img/art/2021-07-26_Media_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2021", 
+                "date": "2021-07-26", 
+                "px": "4400x3100", 
+                "title": "Media", 
+                "size": "<em>VENDIDO</em>. Bruselas, BE v\u00eda Colombia."
+            }, 
+            {
+                "img": "img/art/2022-01-08_Circulo_de_carne_4200x2900.jpg", 
+                "thumb": "img/art/2022-01-08_Circulo_de_carne_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2022", 
+                "date": "2022-01-08", 
+                "px": "4200x2900", 
+                "title": "Circulo de carne", 
+                "size": "Disponible"
+            }, 
+            {
+                "img": "img/art/2021-05-22_Papaya_4400x3100.jpg", 
+                "thumb": "img/art/2021-05-22_Papaya_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2021", 
+                "date": "2021-05-22", 
+                "px": "4400x3100", 
+                "title": "Papaya", 
+                "size": "<em>VENDIDO</em>. Karlsruhe, DE."
+            }, 
+            {
+                "img": "img/art/2021-07-27_monte-v4.png", 
+                "thumb": "img/art/2021-08-20_monte-v4_1000x705.png", 
+                "extension": "png", 
+                "year": "2021", 
+                "date": "2021-07-27", 
+                "px": "monte-v4", 
+                "title": "Monte", 
+                "size": "Arte del disco \"Monte\"."
+            }, 
+            {
+                "img": "img/art/2021-08-20_monte-v6-back.png", 
+                "thumb": "img/art/2021-08-20_monte-v6-back_1000x705.png", 
+                "extension": "png", 
+                "year": "2021", 
+                "date": "2021-08-20", 
+                "px": "monte-v6-back", 
+                "title": "Monte", 
+                "size": "Arte del disco \"Monte\"."
+            }, 
+            {
+                "img": "img/art/2021-10-11_Plantas_2900x2700.jpg", 
+                "thumb": "img/art/2021-10-11_Plantas_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2021", 
+                "date": "2021-10-11", 
+                "px": "2900x2700", 
+                "title": "Plantas", 
+                "size": "Disponible"
+            }, 
+            {
+                "img": "img/art/2021-10-25_Obscura_5100x3400.jpg", 
+                "thumb": "img/art/2021-10-25_Obscura_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2021", 
+                "date": "2021-10-25", 
+                "px": "5100x3400", 
+                "title": "Obscura", 
+                "size": "Disponible"
+            }, 
+            {
+                "img": "img/art/2021-05-21_derretir_3100x4400.jpg", 
+                "thumb": "img/art/2021-05-21_derretir_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2021", 
+                "date": "2021-05-21", 
+                "px": "3100x4400", 
+                "title": "Derretir", 
+                "size": "<em>VENDIDO</em>. Karlsruhe, DE."
+            }, 
+            {
+                "img": "img/art/2021-09-01_Maria_3100x4400.jpg", 
+                "thumb": "img/art/2021-09-01_Maria_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2021", 
+                "date": "2021-09-01", 
+                "px": "3100x4400", 
+                "title": "Mar\u00eda", 
+                "size": "<em>VENDIDO</em>. K\u00f6ln, DE v\u00eda Cuatitl\u00e1n Izcalli."
+            }, 
+            {
+                "img": "img/art/2021-08-24_Reflexion_3700_3300.jpg", 
+                "thumb": "img/art/2021-08-24_Reflexion_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2021", 
+                "date": "2021-08-24", 
+                "px": "3300", 
+                "title": "Iluminada", 
+                "size": "<em>VENDIDO</em>. Karlsruhe, DE. v\u00eda Colombia"
+            }, 
+            {
+                "img": "img/art/2020-01-07_Flores_Viendo_5720x4026.jpg", 
+                "thumb": "img/art/2020-01-07_Flores_Viendo_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2020", 
+                "date": "2020-01-07", 
+                "px": "5720x4026", 
+                "title": "Flores viendo", 
+                "size": "<em>VENDIDO</em>. Karlsruhe, DE"
+            }, 
+            {
+                "img": "img/art/2020-10-21_yhwh_6941x9372.jpg", 
+                "thumb": "img/art/2020-10-21_yhwh_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2020", 
+                "date": "2020-10-21", 
+                "px": "6941x9372", 
+                "title": "YHWH", 
+                "size": "Disponible"
+            }, 
+            {
+                "img": "img/art/2021-02-20_grande_4625x3212.jpg", 
+                "thumb": "img/art/2021-02-20_grande_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2021", 
+                "date": "2021-02-20", 
+                "px": "4625x3212", 
+                "title": "Grande", 
+                "size": "Disponible"
+            }, 
+            {
+                "img": "img/art/2018-10-30_Calacas_2784x2229.jpg", 
+                "thumb": "img/art/2018-10-30_Calacas_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2018", 
+                "date": "2018-10-30", 
+                "px": "2784x2229", 
+                "title": "Calacas", 
+                "size": "Calaveras"
+            }, 
+            {
+                "img": "img/art/2019-06-19_musa_9729x6624.jpg", 
+                "thumb": "img/art/2019-06-19_musa_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2019", 
+                "date": "2019-06-19", 
+                "px": "9729x6624", 
+                "title": "Ranas", 
+                "size": "Ranitas"
+            }, 
+            {
+                "img": "img/art/2022-02-24_Cafe_3487x3327.jpg", 
+                "thumb": "img/art_2022/2022-02-24_Cafe_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2022", 
+                "date": "2022-02-24", 
+                "px": "3487x3327", 
+                "title": "Caf\u00e9", 
+                "size": "Momeno"
+            }, 
+            {
+                "img": "img/art_2022/2022-02-24_mouth_2949x3059.jpg", 
+                "thumb": "img/art_2022/2022-02-24_mouth_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2022", 
+                "date": "2022-02-24", 
+                "px": "2949x3059", 
+                "title": "Hocico", 
+                "size": "Momeno"
+            }
+        ]
+    }
+}

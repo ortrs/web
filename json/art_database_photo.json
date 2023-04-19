@@ -1,0 +1,176 @@
+{
+    "artwork": {
+        "pieces": [
+            {
+                "img": "img/photo/IMG_0161.JPG", 
+                "thumb": "img/photo/IMG_0161sm.JPG", 
+                "extension": "JPG", 
+                "year": "IMG_0161.JPG", 
+                "date": "IMG", 
+                "px": "0161", 
+                "title": "Desatadora de nudos", 
+                "size": "Canc\u00fan, MEX"
+            }, 
+            {
+                "img": "img/photo/IMG_0233.JPG", 
+                "thumb": "img/photo/IMG_0233sm.JPG", 
+                "extension": "JPG", 
+                "year": "IMG_0233.JPG", 
+                "date": "IMG", 
+                "px": "0233", 
+                "title": "Corruptos", 
+                "size": "Canc\u00fan, MEX"
+            }, 
+            {
+                "img": "img/photo/IMG_0234.JPG", 
+                "thumb": "img/photo/IMG_0234sm.JPG", 
+                "extension": "JPG", 
+                "year": "IMG_0234.JPG", 
+                "date": "IMG", 
+                "px": "0234", 
+                "title": "Puente del museo de los corruptos", 
+                "size": "Canc\u00fan, MEX"
+            }, 
+            {
+                "img": "img/photo/IMG_1025.JPG", 
+                "thumb": "img/photo/IMG_1025sm.JPG", 
+                "extension": "JPG", 
+                "year": "IMG_1025.JPG", 
+                "date": "IMG", 
+                "px": "1025", 
+                "title": "Sentadas al sol en ", 
+                "size": "Sevilla, ES"
+            }, 
+            {
+                "img": "img/photo/IMG_1048.JPG", 
+                "thumb": "img/photo/IMG_1048sm.JPG", 
+                "extension": "JPG", 
+                "year": "IMG_1048.JPG", 
+                "date": "IMG", 
+                "px": "1048", 
+                "title": "Plaza de Espa\u00f1a", 
+                "size": "Sevilla, ES"
+            }, 
+            {
+                "img": "img/photo/IMG_1122.JPG", 
+                "thumb": "img/photo/IMG_1122sm.JPG", 
+                "extension": "JPG", 
+                "year": "IMG_1122.JPG", 
+                "date": "IMG", 
+                "px": "1122", 
+                "title": "Las calles", 
+                "size": "Sevilla, ES"
+            }, 
+            {
+                "img": "img/photo/IMG_8204.JPG", 
+                "thumb": "img/photo/IMG_8204sm.JPG", 
+                "extension": "JPG", 
+                "year": "IMG_8204.JPG", 
+                "date": "IMG", 
+                "px": "8204", 
+                "title": "Pasto en el desierto", 
+                "size": "Abu Dhabi, EAU"
+            }, 
+            {
+                "img": "img/photo/IMG_9640.JPG", 
+                "thumb": "img/photo/IMG_9640sm.JPG", 
+                "extension": "JPG", 
+                "year": "IMG_9640.JPG", 
+                "date": "IMG", 
+                "px": "9640", 
+                "title": "Las casas", 
+                "size": "Heidelberg, DE"
+            }, 
+            {
+                "img": "img/photo/IMG_9681.JPG", 
+                "thumb": "img/photo/IMG_9681sm.JPG", 
+                "extension": "JPG", 
+                "year": "IMG_9681.JPG", 
+                "date": "IMG", 
+                "px": "9681", 
+                "title": "Flores", 
+                "size": "Los Mochis, MEX"
+            }, 
+            {
+                "img": "img/photo/IMG_9689.JPG", 
+                "thumb": "img/photo/IMG_9689sm.JPG", 
+                "extension": "JPG", 
+                "year": "IMG_9689.JPG", 
+                "date": "IMG", 
+                "px": "9689", 
+                "title": "Cerro de la memoria", 
+                "size": "Los Mochis, MEX"
+            }, 
+            {
+                "img": "img/photo/IMG_9691.JPG", 
+                "thumb": "img/photo/IMG_9691sm.JPG", 
+                "extension": "JPG", 
+                "year": "IMG_9691.JPG", 
+                "date": "IMG", 
+                "px": "9691", 
+                "title": "Los Mochis", 
+                "size": "Los Mochis, MEX"
+            }, 
+            {
+                "img": "img/photo/IMG_9809.JPG", 
+                "thumb": "img/photo/IMG_9809sm.JPG", 
+                "extension": "JPG", 
+                "year": "IMG_9809.JPG", 
+                "date": "IMG", 
+                "px": "9809", 
+                "title": "BUITRIS EN", 
+                "size": "Los Mochis, MEX"
+            }, 
+            {
+                "img": "img/photo/IMG_9826.JPG", 
+                "thumb": "img/photo/IMG_9826sm.JPG", 
+                "extension": "JPG", 
+                "year": "IMG_9826.JPG", 
+                "date": "IMG", 
+                "px": "9826", 
+                "title": "Baviri", 
+                "size": "Isla El Maviri, MEX"
+            }, 
+            {
+                "img": "img/photo/IMG_9870.JPG", 
+                "thumb": "img/photo/IMG_9870sm.JPG", 
+                "extension": "JPG", 
+                "year": "IMG_9870.JPG", 
+                "date": "IMG", 
+                "px": "9870", 
+                "title": "Pescadores", 
+                "size": "Topolobampo, MEX"
+            }, 
+            {
+                "img": "img/photo/IMG_9902.JPG", 
+                "thumb": "img/photo/IMG_9902sm.JPG", 
+                "extension": "JPG", 
+                "year": "IMG_9902.JPG", 
+                "date": "IMG", 
+                "px": "9902", 
+                "title": "Organillero", 
+                "size": "CDMX, MEX"
+            }, 
+            {
+                "img": "img/photo/IMG_9906.JPG", 
+                "thumb": "img/photo/IMG_9906sm.JPG", 
+                "extension": "JPG", 
+                "year": "IMG_9906.JPG", 
+                "date": "IMG", 
+                "px": "9906", 
+                "title": "Dos coyotes, 50 pesos (chingue su madre)", 
+                "size": "CDMX, MEX"
+            }, 
+            {
+                "img": "img/photo/IMG_9935.JPG", 
+                "thumb": "img/photo/IMG_9935sm.JPG", 
+                "extension": "JPG", 
+                "year": "IMG_9935.JPG", 
+                "date": "IMG", 
+                "px": "9935", 
+                "title": "NUEVE LUCES", 
+                "size": "Canc\u00fan, MEX"
+            }
+        ]
+    }
+}

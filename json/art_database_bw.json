@@ -1,0 +1,76 @@
+{
+    "artwork": {
+        "pieces": [ 
+            {
+                "img": "img/art_2018/2018-11-18_parceracosmica_3600x5176.jpg", 
+                "thumb": "img/art_2018/2018-11-18_parceracosmica_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2018", 
+                "date": "2018-11-18", 
+                "px": "3600x5176", 
+                "title": "Black and White", 
+                "size": "Ink and Black and White Paper."
+            }, 
+            {
+                "img": "img/art_2018/2018-12-19_Bloom_3438x2294.jpg", 
+                "thumb": "img/art_2018/2018-12-19_Bloom_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2018", 
+                "date": "2018-12-19", 
+                "px": "3438x2294", 
+                "title": "Strichpunkt", 
+                "size": "Reproducci\u00f3n de cartas. 30x40cm, 300g/m\u00b2."
+            }, 
+            {
+                "img": "img/art_2018/2018-12-20_Fantasmas_3459x2481.jpg", 
+                "thumb": "img/art_2018/2018-12-20_Fantasmas_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2018", 
+                "date": "2018-12-20", 
+                "px": "3459x2481", 
+                "title": "Parcera", 
+                "size": "C\u00f3smica. 30x40cm, 300g/m\u00b2."
+            }, 
+            {
+                "img": "img/art_2018/2018-12-21_Galaxia_3664x2636.jpg", 
+                "thumb": "img/art_2018/2018-12-21_Galaxia_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2018", 
+                "date": "2018-12-21", 
+                "px": "3664x2636", 
+                "title": "Bloom", 
+                "size": "Bubbles. Postkarte, 150g/m\u00b2."
+            }, 
+            {
+                "img": "img/art_2018/2019-04-14_David_Chau_3608x500.jpg", 
+                "thumb": "img/art_2018/2019-04-14_David_Chau_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2019", 
+                "date": "2019-04-14", 
+                "px": "3608x500", 
+                "title": "Fantasmas", 
+                "size": "Reproducci\u00f3n de cartas. Postkarte, 150g/m\u00b2."
+            }, 
+            {
+                "img": "img/art_old/2006_Collage_1416x1708.jpg", 
+                "thumb": "img/art_old/2006_Collage_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2006_Collage_1416x1708.jpg", 
+                "date": "2006", 
+                "px": "1416x1708", 
+                "title": "Galaxia", 
+                "size": "Reproducci\u00f3n de cartas. Postkarte, 150g/m\u00b2."
+            }, 
+            {
+                "img": "img/art_old/2007_Collage_2500x3000.jpg", 
+                "thumb": "img/art_old/2007_Collage_1000x705.jpg", 
+                "extension": "jpg", 
+                "year": "2007_Collage_2500x3000.jpg", 
+                "date": "2007", 
+                "px": "2500x3000", 
+                "title": "Chau, David", 
+                "size": "Chau. Postkarte, 150g/m\u00b2."
+            }
+        ]
+    }
+}
