@@ -2,16 +2,17 @@
     "artwork": {
         "current_EN": [
             {
-            "img": "img/art_2023/2023-04-11_circulo_4200x2959.JPG", 
-            "thumb": "img/art_2023/2023-04-11_circulo_1000x705.JPG", 
-            "extension": "JPG", 
-            "year": "2023", 
-            "date": "2023-04-11", 
-            "px": "4200x2959", 
-            "title": "circulo", 
-            "titulo": "círculo",
-            "size": "L'aquarelle Canson 23 x 31 cm, 300 g/m\u00b2"
-            },
+                "img": "img/art_2023/2023-06-24_calacas_3232x4280.JPG", 
+                "thumb": "img/art_2023/2023-06-24_calacas_1000x705.JPG", 
+                "extension": "JPG", 
+                "year": "2023", 
+                "date": "2023-06-24", 
+                "px": "3232x4280", 
+                "title": "calaveras", 
+                "titulo": "calaveras",
+                "size": "Hahnemühle Torchon roh 30x40 cm, 275 g/m\u00b2"
+                },
+            
             {
                 "img": "img/art_2023/2023-02-19_yhwh2_2944x4024.JPG", 
                 "thumb": "img/art_2023/2023-02-19_yhwh2_1000x705.JPG", 
@@ -220,6 +221,17 @@
             }
         ],
         "abgegeben_EN": [
+            {
+                "img": "img/art_2023/2023-04-11_circulo_4200x2959.JPG", 
+                "thumb": "img/art_2023/2023-04-11_circulo_1000x705.JPG", 
+                "extension": "JPG", 
+                "year": "2023", 
+                "date": "2023-04-11", 
+                "px": "4200x2959", 
+                "title": "circulo", 
+                "titulo": "círculo",
+                "size": "L'aquarelle Canson 23 x 31 cm, 300 g/m\u00b2"
+                },
             {
                 "img": "img/art_2022/2022-08-08_ogos_4191x3102.jpg", 
                 "thumb": "img/art_2022/2022-08-08_ogos_1000x705.jpg", 
