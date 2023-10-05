@@ -2,6 +2,28 @@
     "artwork": {
         "current_EN": [
             {
+                "img": "img/art_2023/2023-10-05_maternidad_4591x3160.JPG", 
+                "thumb": "img/art_2023/2023-10-05-maternidad_1000x705.JPG", 
+                "extension": "JPG", 
+                "year": "2023", 
+                "date": "2023-10-05", 
+                "px": "4591x3160", 
+                "title": "maternity", 
+                "titulo": "maternidad",
+                "size": "Khadi Karnataka cotton rag A4, 320 g/m\u00b2"
+                },
+            {
+                "img": "img/art_2023/2023-10-05_corea_4504x3264.JPG", 
+                "thumb": "img/art_2023/2023-10-05_corea_1000x705.JPG", 
+                "extension": "JPG", 
+                "year": "2023", 
+                "date": "2023-10-05", 
+                "px": "4504x3264", 
+                "title": "corea", 
+                "titulo": "corea",
+                "size": "Khadi Karnataka cotton rag A5, 320 g/m\u00b2"
+                },
+            {
                 "img": "img/art_2023/2023-07-219_domina_5000x3256.JPG", 
                 "thumb": "img/art_2023/2023-07-219_domina_1000x705.JPG", 
                 "extension": "JPG", 
