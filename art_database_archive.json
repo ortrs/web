@@ -2,6 +2,17 @@
     "artwork": {
         "current_EN": [
             {
+                "img": "img/art_2024/2024-01-15_e_4192x3200.JPG", 
+                "thumb": "img/art_2024/2024-01-15_e_1000x705.JPG", 
+                "extension": "JPG", 
+                "year": "2023", 
+                "date": "2023-10-05", 
+                "px": "4192x3200", 
+                "title": "e", 
+                "titulo": "e",
+                "size": "- xx, 200 g/m\u00b2"
+                },
+            {
                 "img": "img/art_2023/2023-10-05_maternidad_4591x3160.JPG", 
                 "thumb": "img/art_2023/2023-10-05_maternidad_1000x705.JPG", 
                 "extension": "JPG", 
