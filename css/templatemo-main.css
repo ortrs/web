@@ -509,6 +509,18 @@ nav a:hover::before {
 	letter-spacing: 0.5px;
 	border-bottom: 2px solid #fff;
 	display: inline-block;
+	padding-bottom: 5px;
+	margin-bottom: 20px;
+	margin-top: 0px;
+}
+
+.third-content h1 {
+	font-size: 16px;
+	font-weight: 700;
+	color: #fff;
+	letter-spacing: 0.3px;
+	border-bottom: 1px solid #3a3939;
+	display: inline-block;
 	padding-bottom: 10px;
 	margin-bottom: 20px;
 	margin-top: 0px;
