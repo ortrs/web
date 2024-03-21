@@ -274,6 +274,13 @@ nav a:hover::before {
   text-align: center;
   background-size: cover;
 }
+.slides .rslide {
+	height: 100vh;
+	width: 100vw;
+	float: left;
+	text-align: center;
+	background-size: cover;
+  }
 .slides .slide .content {
   overflow-y: scroll;
   position: relative;
@@ -284,13 +291,7 @@ nav a:hover::before {
   bottom: 10%;
   background: rgba(0, 0, 0, 0.5);
 }
-.slides .rslide {
-	height: 100vh;
-	width: 100vw;
-	float: left;
-	text-align: center;
-	background-size: cover;
-  }
+
   .slides .rslide .content {
 	overflow-y: scroll;
 	position: relative;
@@ -332,11 +333,17 @@ nav a:hover::before {
 .slides .rslide:nth-child(1) {
 	background-image: url(../img/first_bg_research.jpg);
   }
+.slides .rslide:nth-child(2) {
+	background-image: url(../img/second_bg_research.jpg);
+  }
+.slides .rslide:nth-child(3) {
+	background-image: url(../img/first_bg_research.jpg);
+  }
 .slides .slide img {
   width: 100%;
 }
 
-  /* Research Slides */
+  /* Research Slides 
 .rslides {
 	width: 600vw;
 	height: 100vh;
@@ -367,7 +374,7 @@ nav a:hover::before {
 	height: 8px;
 	background-color: rgba(0, 0, 0, 0.5);
   }
-  /* Add a thumb */
+  /* Add a thumb 
   .content::-webkit-scrollbar-thumb {
 	  background: rgba(250, 250, 250, 0.5);
   }
@@ -375,25 +382,16 @@ nav a:hover::before {
   .rslides .slide:nth-child(1) {
 	background-image: url(../img/first_bg_research.jpg);
   }
-  .rslides .slide:nth-child(2) {
-	background-image: url(../img/second_bg.jpg);
+  .rslides .slide:nth-child(4) {
+	background-image: url(../img/second_bg_research.jpg);
   }
   .rslides .slide:nth-child(3) {
-	background-image: url(../img/third_bg.jpg);
-  }
-  .rslides .slide:nth-child(4) {
-	background-image: url(../img/fourth_bg.jpg);
-   }
-  .rslides .slide:nth-child(5) {
-	background-image: url(../img/fifth_bg.jpg);
-  }
-  .rslides .slide:nth-child(6) {
-	background-image: url(../img/fourth_bg.jpg);
+	background-image: url(../img/first_bg_research.jpg);
   }
   .rslides .slide img {
 	width: 100%;
   }
-
+  */
 
 .main-btn a:hover {
 	background-color: #fff;
