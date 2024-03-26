@@ -2,15 +2,60 @@
     "artwork": {
         "current_EN": [
             {
+                "img": "img/art_2024/2024-03-26_espejismos_4152x3012.JPG", 
+                "thumb": "img/art_2024/2024-03-26_espejismos_1000x705.JPG", 
+                "extension": "JPG", 
+                "year": "2024", 
+                "date": "2024-03-26", 
+                "px": "4192x3200", 
+                "title": "Re: espejismos", 
+                "titulo": "Re: espejismos",
+                "size": "Aquarelle Clairefontaine , 640 g/m\u00b2"
+                },
+            {
+                "img": "img/art_2024/2024-03-18_der_4708x3091.JPG", 
+                "thumb": "img/art_2024/2024-03-18_der_1000x705.JPG", 
+                "extension": "JPG", 
+                "year": "2024", 
+                "date": "2024-03-26", 
+                "px": "4192x3200", 
+                "title": "Derecha", 
+                "titulo": "Derecha",
+                "size": "x , 300 g/m\u00b2"
+                },
+            {
+                "img": "img/art_2024/2024-03-18_izq_4340x3240.JPG", 
+                "thumb": "img/art_2024/2024-03-18_izq_1000x705.JPG", 
+                "extension": "JPG", 
+                "year": "2024", 
+                "date": "2024-03-26", 
+                "px": "4192x3200", 
+                "title": "Izquierda", 
+                "titulo": "Izquierda",
+                "size": "x , 300 g/m\u00b2"
+                },
+            {
+                "img": "img/art_2024/2023-11-08_cuchillos_2974x3927.JPG", 
+                "thumb": "img/art_2024/2023-11-08_cuchillos_1000x705.JPG", 
+                "extension": "JPG", 
+                "year": "2024", 
+                "date": "2024-03-26", 
+                "px": "4192x3200", 
+                "title": "Cuchillos", 
+                "titulo": "Cuchillos",
+                "size": "x , 300 g/m\u00b2"
+                },
+
+            {
                 "img": "img/art_2024/2024-01-15_e_4192x3200.JPG", 
                 "thumb": "img/art_2024/2024-01-15_e_1000x705.JPG", 
                 "extension": "JPG", 
-                "year": "2023", 
-                "date": "2023-10-05", 
+                "year": "2024", 
+                "date": "2024-01-15", 
                 "px": "4192x3200", 
-                "title": "e", 
-                "titulo": "e",
-                "size": "- xx, 200 g/m\u00b2"
+                "title": "dreams: a goat appears on the right side", 
+                "titulo": "sueños",
+                "size": "- fat paper, 200 g/m\u00b2"
                 },
             {
                 "img": "img/art_2023/2023-10-05_maternidad_4591x3160.JPG", 
