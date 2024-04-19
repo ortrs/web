@@ -23,17 +23,7 @@
                 "titulo": "Re: espejismos",
                 "size": "Aquarelle Clairefontaine, 640 g/m\u00b2"
                 },
-            {
-                "img": "img/art_2024/2024-03-18_der_4708x3091.JPG", 
-                "thumb": "img/art_2024/2024-03-18_der_1000x705.JPG", 
-                "extension": "JPG", 
-                "year": "2024", 
-                "date": "2024-03-26", 
-                "px": "4192x3200", 
-                "title": "Derecha", 
-                "titulo": "Derecha",
-                "size": "x , 300 g/m\u00b2"
-                },
+
             {
                 "img": "img/art_2024/2024-03-18_izq_4340x3240.JPG", 
                 "thumb": "img/art_2024/2024-03-18_izq_1000x705.JPG", 
@@ -125,17 +115,7 @@
                 "size": "L'aquarelle Canson 23 x 31 cm, 300 g/m\u00b2"
                 },
         
-            {
-                "img": "img/art_2023/2023-02-04_mini_4600x3064.JPG", 
-                "thumb": "img/art_2023/2023-02-04_miniB_1000x705.JPG", 
-                "extension": "JPG", 
-                "year": "2023", 
-                "date": "2023-02-04", 
-                "px": "4600x3064", 
-                "title": "mini (postkarte)",
-                "titulo": "mini (postal)", 
-                "size": "148 x 100 mm, 140 lb/m\u00b2" 
-            }, 
+
             {
                 "img": "img/art_2023/2023-01-25_patas_3864x2888.JPG", 
                 "thumb": "img/art_2023/2023-04-11_patas_1000x705.JPG", 
@@ -321,6 +301,29 @@
             }
         ],
         "abgegeben_EN": [
+            {
+                "img": "img/art_2024/2024-03-18_der_4708x3091.JPG", 
+                "thumb": "img/art_2024/2024-03-18_der_1000x705.JPG", 
+                "extension": "JPG", 
+                "year": "2024", 
+                "date": "2024-03-26", 
+                "px": "4192x3200", 
+                "title": "Derecha", 
+                "titulo": "Derecha",
+                "size": "x , 300 g/m\u00b2"
+                },
+            {
+                "img": "img/art_2023/2023-02-04_mini_4600x3064.JPG", 
+                "thumb": "img/art_2023/2023-02-04_miniB_1000x705.JPG", 
+                "extension": "JPG", 
+                "year": "2023", 
+                "date": "2023-02-04", 
+                "px": "4600x3064", 
+                "title": "mini (postkarte)",
+                "titulo": "mini (postal)", 
+                "size": "Perdido en un tren a Estrasburgo, 148 x 100 mm, 140 lb/m\u00b2" 
+            }, 
+            
             {
                 "img": "img/art_2023/2023-04-11_circulo_4200x2959.JPG", 
                 "thumb": "img/art_2023/2023-04-11_circulo_1000x705.JPG", 
