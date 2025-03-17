@@ -2,6 +2,17 @@
     "artwork": {
         "current_EN": [
             {
+                "img": "img/art_2025/2025-03-18_desierto_4136x2992.JPG", 
+                "thumb": "img/art_2025/2025-03-18_desierto_1000x705.JPG", 
+                "extension": "JPG", 
+                "year": "2025", 
+                "date": "2025-03-17", 
+                "px": "4136x2992", 
+                "title": "Desierto par Tatev", 
+                "titulo": "Desierto par Tatev",
+                "size": "Aquarelle Clairefontaine, 640 g/m\u00b2"
+                },
+            {
                 "img": "img/art_2024/2024-04-28_der2_4659x3382.JPG", 
                 "thumb": "img/art_2024/2024-04-28_der2_1000x705.JPG", 
                 "extension": "JPG", 
