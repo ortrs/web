@@ -1681,6 +1681,130 @@
                 "titulo": "NUEVE LUCES", 
                 "size": "Canc\u00fan, MEX"
             }
+        ],
+        "library_EN": [
+            {
+                "img": "img/lib/Top_Left.JPG", 
+                "thumb": "img/lib/Top_Left_thumb.JPG", 
+                "extension": "JPG", 
+                "year": "2025", 
+                "date": "2025-0619", 
+                "px": "3200x3200", 
+                "title": "Top", 
+                "titulo": "Top", 
+                "size": "Top Left"
+            }, 
+            {
+                "img": "img/lib/Top_Right.JPG", 
+                "thumb": "img/lib/Top_Right_thumb.JPG", 
+                "extension": "JPG", 
+                "year": "2025", 
+                "date": "2025-0619", 
+                "px": "3200x3200", 
+                "title": "Top", 
+                "titulo": "Top", 
+                "size": "Top Left"
+            }, 
+            {
+                "img": "img/lib/04_Left.JPG", 
+                "thumb": "img/lib/04_Left_thumb.JPG", 
+                "extension": "JPG", 
+                "year": "2025", 
+                "date": "2025-0619", 
+                "px": "3200x3200", 
+                "title": "Top", 
+                "titulo": "Top", 
+                "size": "Top Left"
+            }, 
+            {
+                "img": "img/lib/03_Right.JPG", 
+                "thumb": "img/lib/03_Right_thumb.JPG", 
+                "extension": "JPG", 
+                "year": "2025", 
+                "date": "2025-0619", 
+                "px": "3200x3200", 
+                "title": "Top", 
+                "titulo": "Top", 
+                "size": "Top Left"
+            },
+            {
+                "img": "img/lib/03_Left.JPG", 
+                "thumb": "img/lib/03_Left_thumb.JPG", 
+                "extension": "JPG", 
+                "year": "2025", 
+                "date": "2025-0619", 
+                "px": "3200x3200", 
+                "title": "Top", 
+                "titulo": "Top", 
+                "size": "Top Left"
+            }, 
+            {
+                "img": "img/lib/02_Right.JPG", 
+                "thumb": "img/lib/02_Right_thumb.JPG", 
+                "extension": "JPG", 
+                "year": "2025", 
+                "date": "2025-0619", 
+                "px": "3200x3200", 
+                "title": "Top", 
+                "titulo": "Top", 
+                "size": "Top Left"
+            },
+            {
+                "img": "img/lib/02_Left.JPG", 
+                "thumb": "img/lib/02_Left_thumb.JPG", 
+                "extension": "JPG", 
+                "year": "2025", 
+                "date": "2025-0619", 
+                "px": "3200x3200", 
+                "title": "Top", 
+                "titulo": "Top", 
+                "size": "Top Left"
+            }, 
+            {
+                "img": "img/lib/01_Right.JPG", 
+                "thumb": "img/lib/01_Right_thumb.JPG", 
+                "extension": "JPG", 
+                "year": "2025", 
+                "date": "2025-0619", 
+                "px": "3200x3200", 
+                "title": "Top", 
+                "titulo": "Top", 
+                "size": "Top Left"
+            },
+            {
+                "img": "img/lib/01_Left.JPG", 
+                "thumb": "img/lib/01_Left_thumb.JPG", 
+                "extension": "JPG", 
+                "year": "2025", 
+                "date": "2025-0619", 
+                "px": "3200x3200", 
+                "title": "Top", 
+                "titulo": "Top", 
+                "size": "Top Left"
+            }, 
+            {
+                "img": "img/lib/00_Right.JPG", 
+                "thumb": "img/lib/00_Right_thumb.JPG", 
+                "extension": "JPG", 
+                "year": "2025", 
+                "date": "2025-0619", 
+                "px": "3200x3200", 
+                "title": "Top", 
+                "titulo": "Top", 
+                "size": "Top Left"
+            },
+            {
+                "img": "img/lib/00_Left.JPG", 
+                "thumb": "img/lib/00_Left_thumb.JPG", 
+                "extension": "JPG", 
+                "year": "2025", 
+                "date": "2025-0619", 
+                "px": "3200x3200", 
+                "title": "Top", 
+                "titulo": "Top", 
+                "size": "Top Left"
+            }
+            
         ]
     }
 }
